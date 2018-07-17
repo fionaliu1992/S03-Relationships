@@ -1,0 +1,29 @@
+body {
+    background-color: #05384c;
+    width: 700px;
+    margin: auto;
+}
+header {
+    background-color: teal;
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+footer{
+    background-color: teal;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+nav{
+    background-color: #1c6b6b;
+    padding: 20px;
+    text-align: center;
+}
+a{
+    color: white;
+}
+main{
+    background-color: white;
+    padding: 20px;
+}
