@@ -26,4 +26,8 @@ a{
 main{
     background-color: white;
     padding: 20px;
+    text-align: center;
+}
+img{
+    width: 30%;
 }
